@@ -10,7 +10,7 @@ const config = {
   paths: {
     // 基础目录
     base: path.join(__dirname, '../../'),
-    data: path.join(__dirname, '../../data'),
+    data: path.join(__dirname, '../../lions-data'),
     
     // 子目录
     get images() {
