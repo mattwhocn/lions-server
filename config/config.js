@@ -3,7 +3,7 @@ const path = require('path');
 const config = {
   // 服务器配置
   server: {
-    port: process.env.PORT || 8002
+    port: process.env.PORT || 4002
   },
 
   // 文件路径配置
